@@ -35,3 +35,8 @@ This Power BI project explores the Superstore dataset to analyze sales, profit, 
 
 ## 🖼️ Dashboard  
 ![Dashboard](Screenshots/Overview.PNG)
+![Geo](Screenshots/Geo.PNG)
+![Customer](Screenshots/Customer_segment.PNG)
+![Product](Screenshots/Product.PNG)
+
+
