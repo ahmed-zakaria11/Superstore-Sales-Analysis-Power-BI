@@ -38,5 +38,20 @@ This Power BI project explores the Superstore dataset to analyze sales, profit, 
 ![Geo](Screenshots/Geo.PNG)
 ![Customer](Screenshots/Customer_segment.PNG)
 ![Product](Screenshots/Product.PNG)
+---
 
+## 🚀 Tools Used
+- **Power BI Desktop**  
+---
+
+## 📖 Learning Outcome  
+This project demonstrates the ability to:  
+- Clean and prepare sales transaction data  
+- Build **interactive dashboards** to track KPIs (Sales, Profit, Discount)  
+- Analyze performance by **region, state, and city** across the USA  
+- Evaluate product trends across **categories and sub-categories**  
+- Identify how discounts impact profitability  
+- Provide actionable insights for **business decision-making**  
+
+---
 
