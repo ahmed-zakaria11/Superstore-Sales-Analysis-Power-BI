@@ -28,7 +28,10 @@ This Power BI project explores the Superstore dataset to analyze sales, profit, 
 - **Standard class** shipping mode generates the most profit 
 
 ## 📂 Repository Structure  
-
+📂 Dataset
+📂 Screenshots
+📄 README.md
+📄 Superstore project.pbix
 
 ## 🖼️ Screenshots  
 (Add dashboard images here once uploaded to `/Screenshots`)  
