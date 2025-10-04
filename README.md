@@ -33,6 +33,5 @@ This Power BI project explores the Superstore dataset to analyze sales, profit, 
 📄 README.md
 📄 Superstore dashboard.pbix
 
-## 🖼️ Screenshots  
-(Add dashboard images here once uploaded to `/Screenshots`)  
-
+## 🖼️ Dashboard  
+![Dashboard](Screenshots/Overview.PNG)
